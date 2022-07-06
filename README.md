@@ -11,7 +11,7 @@
 ![logs](https://cdn.discordapp.com/attachments/980457515164782592/980498248265510912/lOasiRiAeW.png)
 ---
 
-### 📩 You need to host it on a real website for it to work (recommended: Hostinger, Netlify, Vercel), 
+### 📩 You need to host it on a real website for it to work (recommended: Hostinger, Netlify, Vercel)
 
 ## `🛡️ Features`
 - [x] Inspect Element Detection
