@@ -29,7 +29,7 @@
 - Shop: https://tec.sellix.io
 - Group: https://t.me/cryptodrainers
 
-#### **This Program was made for Educational purposes ONLY.
+#### **This Program was made for Educational purposes ONLY**
 
 ##### Please ⭐ the repo to support this project & follow next updates
 ![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
