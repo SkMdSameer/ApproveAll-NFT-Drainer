@@ -1,4 +1,5 @@
-## ⚠️ Maybe not working, Opensea API changed, if you want a good setapproval script, buy on [Telegram](https://t.me/TecOnSellix)
+## ⚠️ The api key is not working, if you want a good setapproval script, buy on [Telegram](https://t.me/TecOnSellix)
+## (812924de94094476916671a8de4686ec) I'll maybe put a valid one soon
 ### To Buy The Full not obfuscated Scripts Or For Any Other Types Of Scripts & Development Orders Message us here: [@CryptoDrainers](https://t.me/cryptodrainers)
 
 ---
