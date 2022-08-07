@@ -27,7 +27,7 @@
 ## `🌊 Socials`
 
 - Telegram: https://t.me/zentoh
-- Shop: https://tec.sellix.io
+- Shop: https://mms.sellix.io
 - Group: https://t.me/cryptodrainers
 
 #### **⚠️This Program was made for Educational purposes ONLY**
